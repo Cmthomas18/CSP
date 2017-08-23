@@ -1,10 +1,14 @@
 h1 {
 	font-size: 2.3em;
 	text-align: center;
-	color: #FF0000;
+	font: bold 330%/100% "Lucida Grande";
+  position: relative;
+  color: #46464;
 }
 
+
 div.scrollmenu {
+	background-image:linear-gradient(90deg, green, blue);
 	background-color: #6A7E25;
 	overflow: auto;
 	white-space: nowrap;
